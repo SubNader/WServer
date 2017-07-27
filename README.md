@@ -1,6 +1,6 @@
 # WServer
 
-###A simple HTTP over TCP web server, written in C.
+### A simple HTTP over TCP web server, written in C.
 
 # Features
   
